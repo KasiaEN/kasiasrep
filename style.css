@@ -1,0 +1,90 @@
+body {
+	background-color: #B4C292;
+	color: #4C061D;
+	font-family: 'Inconsolata', monospace;
+	text-align: center;
+	margin: auto;
+	font-size: 25px;
+} 
+
+p {
+	color: #4C061D;
+	font-family: 'Inconsolata', monospace;
+
+} 
+
+a {
+	text-decoration: none;
+	color: #736F4E;
+	font-weight: bolder;
+	padding: 20 px 20px;
+
+}
+
+h1 {
+	color: #D17A22;
+	font-size: 50px;
+	border: 5px dotted #736F4E;
+	padding: 35px 15px;
+	border-radius: 30px;
+	margin: 50px;
+	box-shadow: 10px 15px 10px #A3C191;
+
+}
+
+h2 {
+	color: #E08F3E;
+	font-size: 30px;
+	border: 2px dotted #736F4E;
+	padding: 35px 15px;
+	border-radius: 30px;
+	margin: 50px;
+	box-shadow: 10px 15px 10px #A3C191
+}
+
+a:hover {
+	color: #D17A22
+}
+
+.tab
+{
+	color: #D17A22;
+	text-align: center;
+	box-shadow: 5px 10px 5px #A3C191;
+	height: 300px;
+	width; 300px;
+	margin: 10px;
+
+
+}
+
+#banner
+{
+
+	color: #D17A22;
+	text-align: center;
+	box-shadow: 5px 10px 5px #A3C191;
+	height: 160px;
+	margin: 35px;
+
+
+}
+
+#footer
+
+{
+	color: #E08F3E;
+	text-align: center;
+	font-size: 12px;
+
+}
+
+.fab
+
+{
+	color: #D17A22;
+	font-size: 30px;
+	margin: 20px;
+
+
+}
